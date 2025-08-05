@@ -110,7 +110,7 @@
     <section class="section" id="about">
         <h2>About Me</h2>
         <p>
-            I’m passionate about building simple, clean, and user-friendly websites. This is my basic HTML site to showcase what I can do.
+            I’m passionate about building simple, clean, and user-friendly websites. This is my basic nasim HTML site to showcase what I can do.
             I love learning new technologies and building fun and useful projects in my free time.
         </p>
     </section>
